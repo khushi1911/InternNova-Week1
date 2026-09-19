@@ -29,7 +29,7 @@ This repository contains my Week 1 Java Fundamentals assignment.
 
 ## How to Run
 
-Compile a file:
+Compile a file and run:
 
 ```bash
 javac filename.java
